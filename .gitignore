@@ -1,0 +1,11 @@
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# PowerShell backups
+*.ps1~
+*.ps1.bak
+
+# Generated tiles and outputs
+tiles/
+output/
